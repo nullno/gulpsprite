@@ -2,9 +2,13 @@
 适用PC/移动端的生成雪碧图glup工具
 
 执行：
+
 1.把需要合并的图片放到images 文件夹
+
 2.根据项目使用如下命令
-3.生成PX-xxxx/REM-xxxx 目录包含（sprite.css，sprite.png） 
+
+3.在dist/生成PX-xxxx/REM-xxxx 目录包含（sprite.css，sprite.png） 
+
 
 
 ```
