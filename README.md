@@ -7,14 +7,13 @@
 3.生成PX-xxxx/REM-xxxx 目录包含（sprite.css，sprite.png） 
 
 
-`
+```
 npm run px 
 
 npm run rem 
 
 npm run clean
-
-`
+```
 
 
 
@@ -54,5 +53,4 @@ body {width:7.5rem;margin:0 auto;}
       win.addEventListener('load', setFont, false);
     })(window, document);
    </script>
-    
-    ```
+```
