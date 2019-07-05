@@ -1,6 +1,13 @@
 # gulpsprite
 适用PC/移动端的生成雪碧图glup工具
 
+安装：
+
+```
+npm install/cnpm install 
+```
+
+
 执行：
 
 1.把需要合并的图片放到images 文件夹

@@ -1,0 +1,19 @@
+{
+  "name": "gulpicon",
+  "version": "1.0.0",
+  "description": "生成雪碧图",
+  "main": "gulpfile.js",
+  "scripts": {
+    "px": "gulp px",
+    "rem": "gulp rem",
+    "clean": "gulp clean"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp.spritesmith": "^6.10.1"
+  },
+  "dependencies": {
+    "gulp": "^4.0.2"
+  }
+}
